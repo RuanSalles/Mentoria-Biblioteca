@@ -7,6 +7,8 @@
 
 #### Autenticação
 + Usuário
++ Perfil
++ Permissões
 
 #### Acervo
 + Livros
